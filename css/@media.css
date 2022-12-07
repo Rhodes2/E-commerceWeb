@@ -1,0 +1,8 @@
+@media screen and (max-width: 600px){
+    .access_links{
+        display: none;
+    }
+    .main_side_bar{
+        display: none;
+    }
+}
